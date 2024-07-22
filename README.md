@@ -15,7 +15,6 @@ Main algorithm steps:
 5. Combine the mask image and the mosaic image to generate the final dynamic face mosaic image
 
 If it helps you, please give me a star, thank you
-如果对您有帮助，麻烦给我一颗星，谢谢了
 
 depend lib:opencv2411or up、Dlib19.7 or up
 
